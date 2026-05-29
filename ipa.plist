@@ -22,8 +22,8 @@
       <key>metadata</key>
       <dict>
 
-        <key>nya.asami.ksign</key>
-        <string>com.ksign.app</string>
+        <key>bundle-identifier</key>
+        <string>nya.asami.ksign</string>
 
         <key>1.6</key>
         <string>1.0</string>
