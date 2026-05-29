@@ -22,10 +22,10 @@
       <key>metadata</key>
       <dict>
 
-        <key>bundle-identifier</key>
+        <key>nya.asami.ksign</key>
         <string>com.ksign.app</string>
 
-        <key>bundle-version</key>
+        <key>1.6</key>
         <string>1.0</string>
 
         <key>kind</key>
