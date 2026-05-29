@@ -25,8 +25,8 @@
         <key>bundle-identifier</key>
         <string>nya.asami.ksign</string>
 
-        <key>1.6</key>
-        <string>1.0</string>
+        <key>bundle-version</key>
+        <string>1.6</string>
 
         <key>kind</key>
         <string>software</string>
