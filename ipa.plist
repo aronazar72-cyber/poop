@@ -14,7 +14,7 @@
           <string>software-package</string>
 
           <key>url</key>
-          <string>https://github.com/aronazar72-cyber/poop/releases/download/ipa_2/Delta_2.720.1164_1780167808.ipa</string>
+          <string>https://github.com/arianyt03/poop/releases/download/ipa_2/Ksign_1.national.ipa</string>
 
         </dict>
       </array>
@@ -23,16 +23,16 @@
       <dict>
 
         <key>bundle-identifier</key>
-        <string>com.gloop.deltamobile</string>
+        <string>nya.asami.ksign</string>
 
         <key>bundle-version</key>
-        <string>2.720.1164</string>
+        <string>1.6</string>
 
         <key>kind</key>
         <string>software</string>
 
         <key>title</key>
-        <string>Delta</string>
+        <string>KSign</string>
 
       </dict>
     </dict>
